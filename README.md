@@ -1,11 +1,11 @@
-MAD 
+Semi-supervised Learning Multiclass Anomaly Detection in Multivariate timeseries
 ==============
 
-**Author:** *Postech DI Lab with Samsung Network Division*
+**Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*, *[Minsoo Kim](https://github.com/km19809)* with Samsung Electronics
 
 **Date:** 2021.05.10 ~ 2022. 04. 29
 
-Semi-supervised Learning Multiclass Anomaly Detection in Multivariate timeseries
+This is the pytorch implementation of MAD 
 
 
 
