@@ -5,7 +5,7 @@ Semi-supervised Learning Multiclass Anomaly Detection in Multivariate timeseries
 
 **Date:** 2021.05.10 ~ 2022. 04. 29
 
-This is the pytorch implementation of MAD 
+This is the pytorch implementation of MAD (Multiclass Anomaly Detection)
 
 
 
