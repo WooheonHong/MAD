@@ -111,3 +111,4 @@ log/
 !__init__.py
 *.csv
 test/*
+.gitignore
