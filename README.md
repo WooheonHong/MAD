@@ -1,4 +1,4 @@
-Semi-supervised Learning Multiclass Anomaly Detection in Multivariate timeseries
+Semi-supervised Learning Multiclass Anomaly Detection in Multivariate Timeseries
 ==============
 
 **Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*, *[Minsoo Kim](https://github.com/km19809)* with Samsung Electronics
