@@ -7,6 +7,23 @@ Semi-supervised Learning Multiclass Anomaly Detection in Multivariate Timeseries
 
 This is the pytorch implementation of MAD (Multiclass Anomaly Detection)
 
+# MPUMAD 
+
+Multi-class PUMAD(MPUMAD)
+
+1. Pseudo labeling with multi-class DHF (MDHF)
+Perform the DHF for each anomaly class
+Find reliable normal as an intersection of DHF
+
+2. Deep metric learning with quadruple loss
+Use quadruple loss to distinguish between anomaly classes in metric learning
+(Triple loss tends to pull anomaly classes together in metric learning)
+
+3. Repeat 1 and 2 
+
+4. Classify by the distance between normal centroid and each anomaly centroid
+
+
 
 
 # Train & Evaluation 
